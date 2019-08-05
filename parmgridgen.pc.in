@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: ParMGridGen
+Description: Software for parallel (mpi) generating coarse grids
+Version: @VERSION@
+Libs: -L${libdir} -lIMparmetis -lParMGridGen
+Cflags: -I${includedir}/imparmetis -I${includedir}/parmgridgen
