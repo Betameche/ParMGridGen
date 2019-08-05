@@ -9,7 +9,7 @@
  */
 
 #include "parmgridgen.h"
-
+#include "IMlib.h"
 
 /*************************************************************************
 * This function reads the CSR matrix

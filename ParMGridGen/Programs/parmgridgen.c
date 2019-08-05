@@ -9,6 +9,7 @@
  */
 
 #include "parmgridgen.h"
+#include "IMlib.h"
 
 void MGridGen(int, idxtype *, realtype *, realtype *, idxtype *, realtype *,
               int, int, int *, int *, int *, idxtype *);

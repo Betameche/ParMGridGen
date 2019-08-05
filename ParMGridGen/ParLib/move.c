@@ -9,6 +9,7 @@
  */
 
 #include "parmgridgen.h"
+#include "IMlib.h"
 
 /*************************************************************************
 * This function moves the graph, and returns a new graph.

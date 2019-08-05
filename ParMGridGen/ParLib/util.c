@@ -9,7 +9,7 @@
  */
 
 #include "parmgridgen.h"
-
+#include "IMlib.h"
 
 /*************************************************************************
 * This function prints an error message and exits
